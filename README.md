@@ -10,16 +10,28 @@
 
 <div align="center">
  
-### 🌟 About Me
+## 🌟 About Me
 
-🔭 **What I'm Doing:**  
-I’m a university student majoring in **Web Development**, with a strong passion for designing interactive and scalable web applications.
+---
 
-🌱 **What I'm Learning:**  
-Currently exploring **GraphQL** and **NestJS** to deepen my backend development skills.
+### 🚀 **What I'm Doing**  
+I'm a university student majoring in **Web Development**,  
+with a strong passion for designing **interactive** and **scalable** web applications.  
 
-💡 **Developer’s Mindset:**  
-I’m constantly exploring new tools, methodologies, and ways to enhance my skills, all while focusing on creating meaningful, impactful projects.
+---
+
+### 🌱 **What I'm Learning**  
+Currently exploring **GraphQL** and **NestJS**  
+to deepen my backend development skills.  
+
+---
+
+### 💡 **Developer’s Mindset**  
+I'm constantly exploring new tools, methodologies,  
+and ways to enhance my skills, all while focusing on creating  
+**meaningful**, **impactful projects**.
+
+---
 
  </div>
  
