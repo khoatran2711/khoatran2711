@@ -10,16 +10,16 @@
 
 <div align="center">
  
-### 🌟 About Me  
+### 🌟 About Me
 
 🔭 **What I'm Doing:**  
-I’m a university student majoring in **Web Development**, with a strong passion for designing interactive and scalable web applications.  
+I’m a university student majoring in **Web Development**, with a strong passion for designing interactive and scalable web applications.
 
 🌱 **What I'm Learning:**  
 Currently exploring **GraphQL** and **NestJS** to deepen my backend development skills.
 
 💡 **Developer’s Mindset:**  
-I’m constantly exploring new tools, methodologies, and ways to enhance my skills, all while focusing on creating meaningful, impactful projects. 
+I’m constantly exploring new tools, methodologies, and ways to enhance my skills, all while focusing on creating meaningful, impactful projects.
 
  </div>
  
@@ -36,18 +36,13 @@ I’m constantly exploring new tools, methodologies, and ways to enhance my skil
 </div>
 
  <hr/>
- 
 <h2 align="center">⚒️ Languages, Frameworks & Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <!-- Row 1: Languages -->
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,html,css" alt="Languages" /><br><br>
-    <!-- Row 2: Frameworks & Libraries -->
-    <img src="https://skillicons.dev/icons?i=angular,nodejs,express,bootstrap,tailwind,mui" alt="Frameworks & Libraries" /><br><br>
-    <!-- Row 3: Databases -->
-    <img src="https://skillicons.dev/icons?i=mysql,mongodb" alt="Databases" /><br><br>
-    <!-- Row 4: Tools -->
-    <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Tools" />
+    <!-- Row 1 -->
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,html,css,angular,nodejs,express" alt="Row 1" /><br><br>
+    <!-- Row 2 -->
+    <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,mui,mysql,mongodb,git,github,vscode" alt="Row 2" />
 </div>
 <br/>
 
@@ -76,7 +71,5 @@ I’m constantly exploring new tools, methodologies, and ways to enhance my skil
 <hr/>
 
 <br/>
-
-
 
 <br/>
