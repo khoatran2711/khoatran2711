@@ -40,14 +40,14 @@ I’m constantly exploring new tools, methodologies, and ways to enhance my skil
 <h2 align="center">⚒️ Languages, Frameworks & Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <!-- Frontend -->
-    <img src="https://skillicons.dev/icons?i=html,css,react,bootstrap,tailwind,mui,figma" alt="Frontend Skills" /><br>
-    <!-- Backend -->
-    <img src="https://skillicons.dev/icons?i=nodejs,express,flask,nextjs,firebase" alt="Backend Skills" /><br>
     <!-- Languages -->
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,python,c,java,r" alt="Programming Languages" /><br>
-    <!-- Databases & Tools -->
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,vscode" alt="Databases and Tools" />
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,html,css" alt="Languages" /><br>
+    <!-- Frameworks & Libraries -->
+    <img src="https://skillicons.dev/icons?i=angular,nodejs,express,bootstrap,tailwind,mui" alt="Frameworks & Libraries" /><br>
+    <!-- Databases -->
+    <img src="https://skillicons.dev/icons?i=sql,mysql,mongodb" alt="Databases" /><br>
+    <!-- Tools -->
+    <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Tools" />
 </div>
 <br/>
 <hr/>
