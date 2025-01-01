@@ -31,7 +31,7 @@ and ways to enhance my skills, all while focusing on creating
 
  </div>
  
-<div align="center"> 
+<!-- <div align="center"> 
   <a href="mailto:dkhoa271103@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
@@ -41,7 +41,7 @@ and ways to enhance my skills, all while focusing on creating
   <a href="https://github.com/khoatran2711" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
-</div>
+</div> -->
 
  <hr/>
 <h2 align="center">⚒️ Languages, Frameworks & Tools ⚒️</h2>
